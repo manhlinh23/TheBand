@@ -135,7 +135,7 @@ p08 {
 }
 #slider {
     margin-top: 46px;
-    background: url(assets/img/chicago.JPG) top center/cover no-repeat;
+    background: url(/assets/img/chicago.JPG) top center/cover no-repeat;
     padding-top: 50%;
     /* p50% de day hinh anh ra  */
     position: relative;
